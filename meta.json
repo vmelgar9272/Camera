@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-12T02:58:06.692Z",
                     "updatedAt": "2023-09-12T02:58:06.692Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f946bb358c537b3d5b798e/projects/64ffca808dd71e676e616199/assets/64ffd3beba87c68701766a77?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T163141Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a356facef082b659ffced8bc505d30e0591450e488f14fca146f9d3713f9dcab2db89e0038e06f24202db1f6df5ce380be36c3f1b18000678821b08f0572e18b44a37b8af4825b7d219b1ec467742fb9f85428f0f2375194a97919588e68b7df6613daec512a99db06df9534261405286ebaf09ae6905b6bfa26310732218db744d677803012dc6844f085676a1aae21eb468a594c77f7ebb90e8a9628dc1b763f904ccdc62ecbcb4b38577ea5ef21194856ab2923d1cc22c29225b50676a5f2d68d9ee6768d953f17eeec86a03d248ecee4e54b01dce78ca5761f2523ce4ea44814794f61c051caceb7c4b157716ecd11f668558291927450a997387172034c",
-                    "signedUrlExpirationTime": 1695227501469
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f946bb358c537b3d5b798e/projects/64ffca808dd71e676e616199/assets/64ffd3beba87c68701766a77?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T163022Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=486ce8b8744ccc35ec8430d043aeb91c92bd8aaa3ec1e90fa4c692231296a70d286ff7ec1f01c4d258f94df5c2c79a13fd626e338109dd34300e9a8ea9d91a7e47928e694e936092be6b19d78d29af9e0a8b2d7650f29795abd54f4b6dfd9695605c7383cb603a48dd474eee4b6436ba0369af17e6d8168faf305eb8c308a326e57e48d90fc79179413ba5533ddd9b4face6d425286cfc42d09325560add047ee5aa7eb33e28dbc19e0c4694f7e543700e183a58fafa695d6aed959eb90ee7eeec4d8f3f47c72a4fbf6868cdb2e3d456b8dd2d0bb9c7697094cd8feefb25d32a909a18726a9e0aaf9c6435c531b6d5dc25cb30a44037d75b3603b407b7b85c06",
+                    "signedUrlExpirationTime": 1695227422322
                 }
             },
             "backendUpgradeVersion": 21,
@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "CSC305 - [A1] Camera App",
+            "projectName": "CSC305 - [A2] Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
